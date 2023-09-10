@@ -1,3 +1,3 @@
-# Mouse followe utilizando React + Vite
+# Mouse follower utilizando React + Vite
 
 jijijaa
